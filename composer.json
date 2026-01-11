@@ -1,5 +1,5 @@
 {
-  "name": "lamoda/enum-bundle",
+  "name": "dmitriy-ivanchuk/enum-bundle",
   "type": "symfony-bundle",
   "description": "Utility wrapper around PHP-enum",
   "license": "MIT",
